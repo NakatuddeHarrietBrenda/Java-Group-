@@ -4,8 +4,8 @@
 
 
 // Difference:
-// Objects are typically used to represent a collection of related data with
+//1. Objects are typically used to represent a collection of related data with
 //  named properties,whereas arrays are used to store ordered collections of data.
 
-// In arrays, data is accessed using an index number (like array[0]), but in objects, 
+//2. In arrays, data is accessed using an index number (like array[0]), but in objects, 
 // data is accessed using a key or property name (like object.key).
